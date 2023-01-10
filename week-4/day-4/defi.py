@@ -10,6 +10,7 @@ texte=[ "7ii",
         "^r!" ]
 
 code=""
+
 for i in range(3):
     for j in range(len(texte)):
         code+=texte[j][i]
