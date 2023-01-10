@@ -1,11 +1,11 @@
 from string import ascii_letters
 
-texte=[ "7ii",
-        "Tsx",
-        "h%3",
-        "i #",
-        "sM ",
-        "$a ",
+texte=[ "7i_",
+        "Ts.",
+        "h% ",
+        "i i",
+        "sMx",
+        "$a3",
         "#t%",
         "^r!" ]
 
